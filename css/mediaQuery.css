@@ -1,0 +1,55 @@
+@media all and (max-width:501px) {
+    .navbar ul li {
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 25px;
+
+    }
+
+    h3 {
+        font-size: 14px;
+    }
+
+    .nut1,
+    .nut2 {
+        font-size: 10rem;
+    }
+
+    .content h3 {
+        padding-top: 20px;
+    }
+
+    .wave {
+        height: 80px;
+    }
+}
+
+@media all and (max-width:767px) and (min-width: 502px) {
+
+    .nut1,
+    .nut2 {
+        font-size: 10rem;
+    }
+
+    .navbar ul li {
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 25px;
+
+    }
+
+    h3 {
+        font-size: 14px;
+    }
+
+    .wave {
+        height: 80px;
+    }
+
+}
+
+@media all and (max-width:979px) and (min-width:768px) {}
